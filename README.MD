@@ -10,12 +10,7 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
-## 🌱 Tecnologias que estou aprendendo:
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
 
 ## 🎯 Objetivo
 
@@ -31,3 +26,11 @@ Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
 
 
 ** by: alecarlosjesus
+
+
+
+
+REMOVER A SEÇÃO Tecnologias
+SALVAR
+COMMITAR
+E REALIZAR UM PUSH
